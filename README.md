@@ -2,7 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=miryambathilde&color=blue)
 
 
-### Hi there 👋 Welcome to my Github!
+### Hi there I'm Miryam 👋 Welcome to my Github!
 
 I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backend development, an avid learner who is passionate about web technologies and building interesting projects. I love learning every day how to create open source projects and contribute to the community.
 
