@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars,contribs&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&layout=compact&theme=nord)](https://github.com/miryambathilde/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&layout=compact&theme=react)](https://github.com/miryambathilde/github-readme-stats)
 
 
 
