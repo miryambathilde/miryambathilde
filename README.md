@@ -1,4 +1,4 @@
-![profile views](https://rushter.com/counter.svg)
+![profile views](https://github.com/miryambathilde/counter.svg)
 
 ### Hi there 👋
 
