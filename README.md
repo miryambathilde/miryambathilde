@@ -42,7 +42,7 @@ Languages and Tools:
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-EE8AC6?style=for-the-badge&logo=sass&logoColor=white)
+![sass](https://img.shields.io/badge/SASS-E766B3?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind-4ACCED?style=for-the-badge&logo=tailwind&logoColor=white)
     
