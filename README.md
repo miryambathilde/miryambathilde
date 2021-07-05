@@ -2,7 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=miryambathilde&color=blue)
 
 
-### Hi there I'm Miryam 👋 Welcome to my Github!
+### Hi there I'm [Miryam!](https://www.linkedin.com/in/miryambathildecrevillen/) 👋 Welcome to my Github!
 
 I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backend development, an avid learner who is passionate about web technologies and building interesting projects. I love learning every day how to create open source projects and contribute to the community.
 
@@ -36,28 +36,7 @@ Languages and Tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&layout=compact&theme=react&&langs_count=10)](https://github.com/miryambathilde/github-readme-stats)
 
-
-
-
-
-
-
-
-<!--
-**miryambathilde/miryambathilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
--->
-
-
-
 <!-- -
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miryambathilde&layout=compact)](https://github.com/miryambathilde/github-readme-stats)
-
-
-
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 -->
 
