@@ -59,7 +59,7 @@ Languages and Tools:
 
 ### Backend
 
-![netlify](https://img.shields.io/badge/Netlify-11C7BC?style=for-the-badge&logo=netlify&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-0EB3A9?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## 🖥️ Workspace Setup
 
