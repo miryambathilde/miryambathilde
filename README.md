@@ -1,8 +1,11 @@
 <!--![profile views](https://github.com/miryambathilde/counter.svg)
 ![image title](https://rushter.com/counter.svg)
 ![Visitor Count](https://profile-counter.glitch.me/{miryambathilde}/count.svg)
--->
 https://visitor-badge.glitch.me/badge?page_id=miryambathilde.visitor-badge
+-->
+
+
+![Profile views](https://komarev.com/ghpvc/?username=miryambathilde)
 
 
 ### Hi there 👋
