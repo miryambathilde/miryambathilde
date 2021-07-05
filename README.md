@@ -59,11 +59,11 @@ Languages and Tools:
 
 ### Backend
 
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-11C7BC?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## 🖥️ Workspace Setup
 
-![vs-code](https://img.shields.io/badge/VS_Code-2040E1?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-2040E1?style=for-the-badge&logo=windows&logoColor=white)
 
 
