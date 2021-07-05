@@ -19,10 +19,10 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
 - 💬 Ask me about whatever you think may help
 - 📫 How to reach me: mbathilde@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: reading about programming, watching mystery series and movies, listening to music, chatting with friends, I love to travel, learn about different cultures and enjoy my family
+- ⚡ Fun fact: reading about programming, watching mystery series and movies, listening music, chatting with friends, I love to travel, learn about different cultures and enjoy my family
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars,contribs&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars,contribs&show_icons=true&theme=blueberry)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&layout=compact&theme=blueberry&&langs_count=10)](https://github.com/miryambathilde/github-readme-stats)
 
