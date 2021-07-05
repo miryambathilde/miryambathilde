@@ -17,11 +17,14 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
 
 Languages and Tools:
 
-![image](https://user-images.githubusercontent.com/72916496/124458692-91bad580-dd8d-11eb-84f4-d1e054107316.png)
-![image](https://user-images.githubusercontent.com/72916496/124458722-9b443d80-dd8d-11eb-96f9-57bfd41ed77f.png)
-![image](https://user-images.githubusercontent.com/72916496/124458861-cb8bdc00-dd8d-11eb-9865-7317410a9ae4.png)
-![image](https://user-images.githubusercontent.com/72916496/124458885-d47cad80-dd8d-11eb-8f13-af8ea72a6ee0.png)
-![image](https://user-images.githubusercontent.com/72916496/124458904-dba3bb80-dd8d-11eb-92c9-cca41fb07320.png)
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 
     
