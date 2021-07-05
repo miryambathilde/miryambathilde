@@ -4,7 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&layout=compact)](https://github.com/miryambathilde/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde)](https://github.com/miryambathilde/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miryambathilde&repo=github-readme-stats)](https://github.com/miryambathilde/github-readme-stats)
+
 
 
 
