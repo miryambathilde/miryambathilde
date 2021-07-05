@@ -4,7 +4,7 @@
 
 ### Hi there I'm [Miryam!](https://www.linkedin.com/in/miryambathildecrevillen/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"> Welcome to my Github!
 
-I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backend development, an avid learner who is passionate about web technologies and building interesting projects. I love learning every day how to create open source projects and contribute to the community.
+I'm Miryam Bathilde, a programming student 👩‍💻 for both frontend and backend development, an avid learner who is passionate about web technologies and building interesting projects. I love learning every day how to create open source projects and contribute to the community.
 
 
 - 👩‍💻 I’m currently working on my training to become a FullStack Developer
