@@ -23,8 +23,8 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
 Here are some ideas to get you started:
 -->
 
-- 👨‍💻 I’m currently working on my training to become a FullStack developer.
-- ☕ Coffee lover.
+- 👨‍💻 I’m currently working on my training to become a FullStack Developer.
+- ☕ Expert coffee lover.
 - 🌱 I’m currently learning programming and web development.
 - 💬 Ask me about whatever you think may help
 - 📫 How to reach me: mbathilde@gmail.com
