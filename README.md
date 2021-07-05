@@ -19,7 +19,7 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&layout=compact&theme=react&&langs_count=10)](https://github.com/miryambathilde/github-readme-stats)
 
-### Languages and Tools:
+## Languages and Tools:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -32,6 +32,10 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+<!-- -
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miryambathilde&layout=compact)](https://github.com/miryambathilde/github-readme-stats)
+-->
 
 ### Front-End Development
 
@@ -67,7 +71,5 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
 ![windows](https://img.shields.io/badge/Windows_10-2040E1?style=for-the-badge&logo=windows&logoColor=white)
 
 
-<!-- -
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miryambathilde&layout=compact)](https://github.com/miryambathilde/github-readme-stats)
--->
+
 
