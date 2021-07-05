@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 - 👨‍💻 I’m currently working on my training to become a FullStack developer.
 - ☕ Coffee lover.
 - 🌱 I’m currently learning programming and web development.
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
 - 💬 Ask me about whatever you think may help
 - 📫 How to reach me: mbathilde@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: reading about programming, watching mystery series and movies, listening to music, chatting with friends, I love to travel, learn about different cultures and enjoy my family.
+
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+-->
 
