@@ -44,7 +44,7 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
 ![css](https://img.shields.io/badge/CSS3-0C54DC?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-E766B3?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7C0FC1?style=for-the-badge&logo=bootstrap&logoColor=white)
-![tailwind](https://img.shields.io/badge/TailwindCSS-0DABCE?style=for-the-badge&logo=tailwind&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind-0DABCE?style=for-the-badge&logo=tailwindcss&logoColor=white)
     
 
 ### Back-End Development
