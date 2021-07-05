@@ -1,4 +1,7 @@
-![profile views](https://github.com/miryambathilde/counter.svg)
+<!--![profile views](https://github.com/miryambathilde/counter.svg)
+![image title](https://rushter.com/counter.svg)
+-->
+![Visitor Count](https://profile-counter.glitch.me/{miryambathilde}/count.svg)
 
 ### Hi there 👋
 
