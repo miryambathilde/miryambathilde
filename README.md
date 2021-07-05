@@ -5,7 +5,7 @@ https://visitor-badge.glitch.me/badge?page_id=miryambathilde.visitor-badge
 -->
 
 
-![Profile views](https://komarev.com/ghpvc/?username=miryambathilde&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=miryambathilde&color=blue)
 
 
 ### Hi there 👋
