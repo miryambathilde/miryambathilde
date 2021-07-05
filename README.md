@@ -64,7 +64,7 @@ Languages and Tools:
 ## 🖥️ Workspace Setup
 
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-2040E1?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 <!-- -
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miryambathilde&layout=compact)](https://github.com/miryambathilde/github-readme-stats)
