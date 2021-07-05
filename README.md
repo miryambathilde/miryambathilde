@@ -42,7 +42,7 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
 ![next](https://img.shields.io/badge/Next-3B3B3D?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-2F2F30?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-5A0682?style=for-the-badge&logo=redux&logoColor=white)
-![react-router](https://img.shields.io/badge/React_Router-DC1D0D?style=for-the-badge&logo=react-router&logoColor=white)
+![react-router](https://img.shields.io/badge/React_Router-C51607?style=for-the-badge&logo=react-router&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E20C1C?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-0C54DC?style=for-the-badge&logo=css3&logoColor=white)
