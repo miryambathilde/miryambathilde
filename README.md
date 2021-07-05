@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: reading about programming, watching mystery series and movies, listening to music, chatting with friends, I love to travel, learn about different cultures and enjoy my family.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miryambathilde)](https://github.com/miryambathilde/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miryambathilde)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- - 👯 I’m looking to collaborate on ...
