@@ -62,7 +62,7 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 ### Back-End Development
 
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![nodemon](https://img.shields.io/badge/Nodemon-23C73C?style=for-the-badge&logo=nodemon&logoColor=white)
+![nodemon](https://img.shields.io/badge/Nodemon-12B83A?style=for-the-badge&logo=nodemon&logoColor=white)
 
 ### Database
 
