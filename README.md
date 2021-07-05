@@ -1,9 +1,3 @@
-<!--![profile views](https://github.com/miryambathilde/counter.svg)
-![image title](https://rushter.com/counter.svg)
-![Visitor Count](https://profile-counter.glitch.me/{miryambathilde}/count.svg)
-https://visitor-badge.glitch.me/badge?page_id=miryambathilde.visitor-badge
--->
-
 
 ![Profile views](https://komarev.com/ghpvc/?username=miryambathilde&color=blue)
 
@@ -24,7 +18,7 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars,contribs&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&layout=compact&theme=blueberry&&langs_count=10)](https://github.com/miryambathilde/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&layout=compact&theme=react&&langs_count=10)](https://github.com/miryambathilde/github-readme-stats)
 
 
 
