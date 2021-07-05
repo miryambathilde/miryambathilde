@@ -35,13 +35,6 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miryambathilde)](https://github.com/miryambathilde/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
 
 
 <!-- - 👯 I’m looking to collaborate on ...
