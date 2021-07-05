@@ -19,7 +19,7 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&layout=compact&theme=react&&langs_count=10)](https://github.com/miryambathilde/github-readme-stats)
 
-## Languages and Tools:
+### Languages and Tools:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -33,7 +33,7 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-### Front-End Development
+## Front-End Development
 
 ![next](https://img.shields.io/badge/Next-3B3B3D?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-2F2F30?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,17 +47,17 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
 ![tailwind](https://img.shields.io/badge/TailwindCSS-0DABCE?style=for-the-badge&logo=tailwind&logoColor=white)
     
 
-### Back-End Development
+## Back-End Development
 
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Database
+## Database
 
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-E97B00?style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-19A2CA?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Deployment and servere
+## Deployment and servere
 
 ![netlify](https://img.shields.io/badge/Netlify-0EB3A9?style=for-the-badge&logo=netlify&logoColor=white)
 
