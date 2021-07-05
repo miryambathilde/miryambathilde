@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 
 
-
+<!-- -
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miryambathilde&layout=compact)](https://github.com/miryambathilde/github-readme-stats)
 
 
