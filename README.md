@@ -22,7 +22,7 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
     bg_color: "444850",
   },
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars,contribs&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars,contribs&show_icons=true&theme=prussian)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&layout=compact&theme=prussian&&langs_count=10)](https://github.com/miryambathilde/github-readme-stats)
 
