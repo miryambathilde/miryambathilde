@@ -22,7 +22,7 @@ I'm Miryam Bathilde, a programming student 👨💻 for both frontend and backen
 - ⚡ Fun fact: reading about programming, watching mystery series and movies, listening music, chatting with friends, I love to travel, learn about different cultures and enjoy my family
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars,contribs&show_icons=true&theme=holly)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars,contribs&show_icons=true&theme=jolly)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&layout=compact&theme=blueberry&&langs_count=10)](https://github.com/miryambathilde/github-readme-stats)
 
