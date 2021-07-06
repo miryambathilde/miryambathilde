@@ -69,7 +69,6 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-E97B00?style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-19A2CA?style=for-the-badge&logo=sqlite&logoColor=white)
-![mysqlWorkbench](https://img.shields.io/badge/MySQLWorkbench-19A2CA?style=for-the-badge&logo=MySQLWorkbench&logoColor=white)
 
 ### Deployment
 
