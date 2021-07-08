@@ -22,7 +22,6 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&langs_count=8&theme=react&layout=compact&line_height=52" />](url)
 </p>
 
----
 
 ## Languages and Tools:
 
@@ -37,11 +36,11 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
----
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miryambathilde&layout=compact)](https://github.com/miryambathilde/github-readme-stats)
 
 
+---------
 
 ### Front-End Development
 
