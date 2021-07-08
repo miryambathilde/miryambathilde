@@ -14,17 +14,12 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 - 📫 How to reach me: mbathilde@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: reading about programming, watching mystery series and movies, listening music, chatting with friends, I love to travel, learn about different cultures and enjoy my family
-<!-- -
- react-gray: {
-    title_color: "61dafb",
-    icon_color: "61dafb",
-    text_color: "ffffff",
-    bg_color: "444850",
-  },
--->
-![Miryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&theme=react&&langs_count=8)](https://github.com/miryambathilde/github-readme-stats)
+[<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars&show_icons=true&theme=react&line_height=52"/>
+<img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&langs_count=8&theme=react&line_height=52" />](url)
+</p>
+
 
 ## Languages and Tools:
 
