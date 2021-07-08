@@ -24,7 +24,7 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&layout=compact&theme=react&&langs_count=8)](https://github.com/miryambathilde/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&theme=react&&langs_count=8)](https://github.com/miryambathilde/github-readme-stats)
 
 ## Languages and Tools:
 
