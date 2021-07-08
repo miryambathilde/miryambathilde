@@ -6,7 +6,6 @@
 
 I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend development, thirsty for learning and passionate about web technologies and building interesting projects. I love learning every day how to create open source projects and contribute to the community.
 
----
 
 - 👩‍💻 I’m currently working on my training to become a FullStack Developer
 - ☕ Expert coffee lover
@@ -23,6 +22,7 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&langs_count=8&theme=react&layout=compact&line_height=52" />](url)
 </p>
 
+---
 
 ## Languages and Tools:
 
@@ -37,9 +37,12 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
+---
 <!-- -
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miryambathilde&layout=compact)](https://github.com/miryambathilde/github-readme-stats)
 -->
+
+---
 
 ### Front-End Development
 
@@ -55,12 +58,15 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 ![sass](https://img.shields.io/badge/SASS-DF46A2?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7C0FC1?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind-0DABCE?style=for-the-badge&logo=tailwindcss&logoColor=white)
-    
+ 
+ ---
 
 ### Back-End Development
 
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![nodemon](https://img.shields.io/badge/Nodemon-12B83A?style=for-the-badge&logo=nodemon&logoColor=white)
+
+---
 
 ### Database
 
@@ -68,9 +74,13 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 ![mysql](https://img.shields.io/badge/MySQL-E97B00?style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-19A2CA?style=for-the-badge&logo=sqlite&logoColor=white)
 
+---
+
 ### Deployment
 
 ![netlify](https://img.shields.io/badge/Netlify-0EB3A9?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
 
 ### 🖥️ Workspace Setup
 
