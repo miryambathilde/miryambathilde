@@ -18,7 +18,7 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 ---
 
 [<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars&show_icons=true&theme=react&line_height=32"/>
+<img src="https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars&show_icons=true&theme=react&line_height=28"/>
 <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&langs_count=8&theme=react&layout=compact&line_height=52" />](url)
 </p>
 
