@@ -6,6 +6,7 @@
 
 I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend development, thirsty for learning and passionate about web technologies and building interesting projects. I love learning every day how to create open source projects and contribute to the community.
 
+---
 
 - 👩‍💻 I’m currently working on my training to become a FullStack Developer
 - ☕ Expert coffee lover
@@ -14,6 +15,8 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 - 📫 How to reach me: mbathilde@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: reading about programming, watching mystery series and movies, listening music, chatting with friends, I love to travel, learn about different cultures and enjoy my family
+
+---
 
 [<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars&show_icons=true&theme=react&line_height=32"/>
