@@ -38,9 +38,9 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-<!-- -
+
 [![Miryam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miryambathilde&layout=compact)](https://github.com/miryambathilde/github-readme-stats)
--->
+
 
 
 ### Front-End Development
