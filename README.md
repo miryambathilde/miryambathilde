@@ -10,7 +10,7 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 - 👩‍💻 I’m currently working on my training to become a FullStack Developer
 - ☕ Expert coffee lover
 - 🌱 I’m currently learning programming and web development.
-- 💬 Ask me about whatever you think may help
+- 💬 Ask me about whatever you think may help you
 - 📫 How to reach me: mbathilde@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: reading about programming, watching mystery series and movies, listening music, chatting with friends, I love to travel, learn about different cultures and enjoy my family
