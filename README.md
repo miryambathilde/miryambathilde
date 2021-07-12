@@ -1,6 +1,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=miryambathilde&color=0D6CCA)
-[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-045AA7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miryambathildecrevillen/)](https://www.linkedin.com/in/miryambathildecrevillen/)
+[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-0B7CCF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miryambathildecrevillen/)](https://www.linkedin.com/in/miryambathildecrevillen/)
 
 
 ### Hi there I'm [Miryam!](https://www.linkedin.com/in/miryambathildecrevillen/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"> Welcome to my Github!
