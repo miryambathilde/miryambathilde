@@ -1,5 +1,5 @@
 
-![Profile views](https://komarev.com/ghpvc/?username=miryambathilde&color=0491A7)
+![Profile views](https://komarev.com/ghpvc/?username=miryambathilde&color=045AA7)
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-0D6CCA?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miryambathildecrevillen/)](https://www.linkedin.com/in/miryambathildecrevillen/)
 
 
