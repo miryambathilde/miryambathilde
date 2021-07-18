@@ -78,7 +78,7 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 ### Deployment
 
 ![netlify](https://img.shields.io/badge/Netlify-0EB3A9?style=for-the-badge&logo=netlify&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-0EB3A9?style=for-the-badge&logo=firebase&logoColor=white)
+![firebase](https://img.shields.io/badge/Firebase-DFC80C?style=for-the-badge&logo=firebase&logoColor=3E3E3B)
 
 ---
 
