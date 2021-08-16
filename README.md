@@ -1,6 +1,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=miryambathilde&color=0D92F3)
-[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-0B7CCF?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miryambathildecrevillen/)](https://www.linkedin.com/in/miryambathildecrevillen/)
+[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-0B7CCF?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miryambathildecrevillen/)](https://www.linkedin.com/in/miryambc/)
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
