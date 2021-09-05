@@ -1,3 +1,5 @@
+<img src='https://media-exp1.licdn.com/dms/image/C4E16AQH94d937_u2FQ/profile-displaybackgroundimage-shrink_200_800/0/1630756430308?e=1636588800&v=beta&t=D70CXq1ZfGkzxnRCgviEbZHgp93C2B_jFBDJ3msoqRU' width=150%>
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=miryambathilde&color=0D92F3)
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-0B7CCF?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miryambathildecrevillen/)](https://www.linkedin.com/in/miryambc/)
