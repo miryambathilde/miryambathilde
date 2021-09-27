@@ -25,10 +25,10 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 
 ---
 
-![](https://github.com/username=miryambathilde/github-stats/blob/master/generated/overview.svg)
+(https://github.com/username=miryambathilde/github-stats/blob/master/generated/overview.svg)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars&show_icons=true&theme=react&"/>
+[<img src="https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars&show_icons=true&theme=react&"/>](url)
 
 
 <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&langs_count=8&theme=react&layout=compact&line_height=52" />
