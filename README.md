@@ -25,6 +25,7 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 
 ---
 
+![](https://github.com/miryambathilde/github-stats/blob/master/generated/overview.svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&hide=stars&show_icons=true&theme=react&"/>
 
