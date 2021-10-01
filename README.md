@@ -87,7 +87,6 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 ### 🖥️ Workspace Setup
 
 ![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![netbeans](https://img.shields.io/badge/Netbeans?style=for-the-badge&logo=Apache-Netbeans&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-2040E1?style=for-the-badge&logo=windows&logoColor=white)
 
 
