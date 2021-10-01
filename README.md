@@ -64,7 +64,7 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![nodemon](https://img.shields.io/badge/Nodemon-12B83A?style=for-the-badge&logo=nodemon&logoColor=white)
-![java](https://img.shields.io/badge/Java-12B83A?style=for-the-badge&logo=java&logoColor=white)
+![java](https://img.shields.io/badge/Java-991D1B?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -87,7 +87,7 @@ I'm Miryam Bathilde, a programming student 👩💻 in both frontend and backend
 ### 🖥️ Workspace Setup
 
 ![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![netbeans](https://img.shields.io/badge/Netbeans?style=for-the-badge&logo=Netbeans&logoColor=white)
+![netbeans](https://img.shields.io/badge/Netbeans?style=for-the-badge&logo=Apache-Netbeans&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-2040E1?style=for-the-badge&logo=windows&logoColor=white)
 
 
