@@ -15,9 +15,9 @@
 I'm Miryam Bathilde, a Junior Web Developer 👩💻 in both frontend and backend development, thirsty for learning and passionate about web technologies and building interesting projects. I love learning every day how to create open source projects and contribute to the community.
 
 
-- 👩‍💻 I’m currently working on my training to become a FullStack Developer
+- 👩‍💻 I'm currently working as a FrontEnd Developer at Everis
 - ☕ Expert coffee lover
-- 🌱 I’m currently learning programming and web development.
+- 🌱 I’m currently learning programming and web development
 - 💬 Ask me about whatever you think may help you
 - 📫 How to reach me: mbathilde@gmail.com
 - 😄 Pronouns: she/her
