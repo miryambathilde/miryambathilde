@@ -7,7 +7,7 @@
 </p>
 
 
-### Hi there I'm [Miryam!](https://www.linkedin.com/in/miryambathildecrevillen/) Welcome to my Github!
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm [Miryam!](https://www.linkedin.com/in/miryambathildecrevillen/) Welcome to my Github!
 
 I'm Miryam Bathilde, a Junior Web Developer 👩💻 in both frontend and backend development, thirsty for learning and passionate about web technologies and building interesting projects. I love learning every day how to create open source projects and contribute to the community.
 
