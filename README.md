@@ -78,7 +78,7 @@ I'm Miryam Bathilde, a Junior Web Developer 👩💻 in both frontend and backen
 ![netlify](https://img.shields.io/badge/Netlify-0EB3A9?style=for-the-badge&logo=netlify&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-F19A14?style=for-the-badge&logo=firebase&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-9E7CC1?style=for-the-badge&logo=heroku&logoColor=white)
-![vercel](https://img.shields.io/badge/Vercel-747572?style=for-the-badge&logo=vercel&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-5F5F5F?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
