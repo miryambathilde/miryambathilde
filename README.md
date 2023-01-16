@@ -23,7 +23,7 @@ I'm a passionate Web Developer 👩💻 thirsty for learning and passionate abou
 
 ---
 
-[!Miryam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=miryambathilde&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Miryam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=miryambathilde&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [<img src="https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&show=stars&show_icons=true&theme=react&"/>
 
