@@ -22,9 +22,9 @@ I'm a passionate Web Developer 👩💻 thirsty for learning and passionate abou
 - ⚡ Fun fact: reading about programming, watching mystery series and movies, listening music, chatting with friends, I love to travel, learn about different cultures and enjoy my family
 
 ---
-[<img src="https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&show=stars&show_icons=true&theme=react&"/>]
+![<img src="https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&show=stars&show_icons=true&theme=react&"/>]
 
-[<img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&langs_count=8&theme=react&layout=compact&line_height=52" />]
+![<img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&langs_count=8&theme=react&layout=compact&line_height=52" />]
 
 
 ## Languages and Tools:
