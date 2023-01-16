@@ -24,12 +24,13 @@ I'm a passionate Web Developer 👩💻 thirsty for learning and passionate abou
 ---
 
 ![Miryam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=miryambathilde&show_icons=true&theme=react&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src="https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&show=stars&show_icons=true&theme=react&"/>
+<img src="https://github-readme-stats.vercel.app/api?username=miryambathilde&count_private=true&include_all_commits&show=stars&show_icons=true&theme=react&"/>
 
-[<img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&langs_count=8&theme=react&layout=compact&line_height=52" />
+<img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&langs_count=8&theme=react&layout=compact&line_height=52" />
 
 
 ## Languages and Tools:
@@ -72,7 +73,6 @@ I'm a passionate Web Developer 👩💻 thirsty for learning and passionate abou
 ### Database
 
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-E97B00?style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-19A2CA?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
