@@ -13,7 +13,7 @@
 
 I'm a passionate Web Developer 👩💻 thirsty for learning and passionate about web technologies and building interesting projects. I love learning every day how to create open source projects and contribute to the community.
 
-- 👩‍💻 I'm currently working as a Junior Web Developer on Ruby on Rails at LeadingDev
+- 👩‍💻 I'm currently working as Junior Web Developer
 - ☕ Expert coffee lover
 - 🌱 I’m currently learning programming and web development
 - 💬 Ask me about whatever you think may help you
@@ -22,8 +22,6 @@ I'm a passionate Web Developer 👩💻 thirsty for learning and passionate abou
 - ⚡ Fun fact: reading about programming, watching mystery series and movies, listening music, chatting with friends, I love to travel, learn about different cultures and enjoy my family
 
 ---
-
-![Miryam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=miryambathilde&show_icons=true&theme=react&)
 
 ## Languages and Tools:
 
