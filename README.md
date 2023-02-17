@@ -63,6 +63,7 @@ I'm a passionate Web Developer 👩💻 thirsty for learning and passionate abou
 
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![nodemon](https://img.shields.io/badge/Nodemon-12B83A?style=for-the-badge&logo=nodemon&logoColor=white)
+![express](https://img.shields.io/badge/Express-06C712?style=for-the-badge&logo=nodemon&logoColor=white)
 
 
 ---
