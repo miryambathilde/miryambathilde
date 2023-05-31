@@ -71,7 +71,6 @@ I'm a passionate Web Developer 👩💻 thirsty for learning and passionate abou
 ### Database
 
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![sqlite](https://img.shields.io/badge/SQLite-19A2CA?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -79,7 +78,6 @@ I'm a passionate Web Developer 👩💻 thirsty for learning and passionate abou
 
 ![netlify](https://img.shields.io/badge/Netlify-0EB3A9?style=for-the-badge&logo=netlify&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-F19A14?style=for-the-badge&logo=firebase&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-9E7CC1?style=for-the-badge&logo=heroku&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-5F5F5F?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
@@ -88,6 +86,7 @@ I'm a passionate Web Developer 👩💻 thirsty for learning and passionate abou
 
 ![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-2040E1?style=for-the-badge&logo=windows&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_11-2040E1?style=for-the-badge&logo=windows&logoColor=white)
 
 
 
