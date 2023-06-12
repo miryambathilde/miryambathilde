@@ -1,4 +1,4 @@
-![Banner Web Developer](https://media.licdn.com/dms/image/D4D16AQHNJRaFK_0ZXg/profile-displaybackgroundimage-shrink_350_1400/0/1670508397497?e=1686182400&v=beta&t=tgYJsuCy5R_S96oUm480WDig9LYl76IGI5UKBCDIcm4)
+![Banner Web Developer](https://media.licdn.com/dms/image/D4D16AQHNJRaFK_0ZXg/profile-displaybackgroundimage-shrink_350_1400/0/1670508397497?e=1692230400&v=beta&t=oc5kKrO1cLqoxX9aP75A7DDKgjQKD85InAoA75MoYeU)
 
 ![Profile views](https://komarev.com/ghpvc/?username=miryambathilde&color=0D92F3)
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-0B7CCF?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miryambathildecrevillen/)](https://www.linkedin.com/in/miryambc/)
