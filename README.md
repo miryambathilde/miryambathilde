@@ -26,7 +26,7 @@ I'm a passionate Web Developer 👩💻 thirsty for learning and passionate abou
 
 
 
-<img width="42.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&hide=ruby,php&langs_count=8&theme=react&layout=compact&line_height=52" />
+<img width="42.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miryambathilde&hide=ruby&langs_count=8&theme=react&layout=compact&line_height=52" />
 
 ---
 
