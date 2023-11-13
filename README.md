@@ -1,4 +1,4 @@
-![Banner Web Developer](https://media.licdn.com/dms/image/D4D16AQHNJRaFK_0ZXg/profile-displaybackgroundimage-shrink_350_1400/0/1670508397497?e=1698278400&v=beta&t=WBJwok2u7IiiQO81PxkoB68xtK5bH95p0cK7i1LKmNU)
+![Banner Web Developer](https://media.licdn.com/dms/image/D4D16AQHNJRaFK_0ZXg/profile-displaybackgroundimage-shrink_350_1400/0/1670508398119?e=1705536000&v=beta&t=BhlamI-eOlHgrhNDqXGm-WF5fMkoougpeRxsRXFYbsc)
 
 ![Profile views](https://komarev.com/ghpvc/?username=miryambathilde&color=0D92F3)
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-0B7CCF?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miryambathildecrevillen/)](https://www.linkedin.com/in/miryambc/)
@@ -8,12 +8,25 @@
   </a>
 </p>
 
+Desarrolladora Frontend con más de dos años y medio de experiencia en maquetación y desarrollo web, usando HTML, CSS, SASS, SCSS, Javascript, Typescript, Angular, entre otros. Actualmente, trabajo como desarrolladora Frontend con Angular, desarrollando aplicaciones a medida, analizando las mejores soluciones y prácticas para cumplir con los objetivos marcados. Acostumbrada a trabajar en entornos Agile, por sprints y con herramientas como Jira, Bitbucket, Git, Teamwork y Trello, usando como herramientas de comunicación Teams o Slack.
 
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> I'm [Miryam!](https://www.linkedin.com/in/miryambathildecrevillen/)
+He trabajado para distintos sectores, desde el sector servicios, al sector financiero, también para clientes del sector de la comunicación y marketing, así como para sector público, energético y telecomunicaciones.
 
-I'm a passionate Web Developer 👩💻 thirsty for learning and passionate about web technologies and building interesting projects. I love learning every day how to create open source projects and contribute to the community.
+Mi principal misión es crear páginas y aplicaciones web funcionales, atractivas y totalmente responsivas, siguiendo siempre las mejores prácticas y los estándares de la industria. 
 
-- 👩‍💻 I'm currently working as Junior Web Developer
+Me encanta el diseño, la creatividad y los retos, y siempre estoy dispuesta a aprender cosas nuevas y a mejorar mis habilidades. Me considero una apasionada de la tecnología y el desarrollo web con gran capacidad de comunicación y aprendizaje continuo. Mi objetivo es seguir creciendo y avanzando profesionalmente dentro del sector, aportando valor a los proyectos que realizo y a los equipos con los que colaboro. 
+
+---------------------------------------------------------------------------------------------------------------
+
+I'm a passionate Frontend Developer 👩💻 with over two and a half years of experience in web layout and development, using HTML, CSS, SASS, SCSS, Javascript, Typescript, Angular, among others. Currently, I work as a Frontend Developer with Angular, developing custom applications, analyzing the best solutions and practices to meet set goals. I'm accustomed to working in Agile environments, by sprints, and with tools like Jira, Bitbucket, Git, Teamwork, and Trello, using Teams or Slack as communication tools.
+
+I've worked for various sectors, from the service industry to the financial sector, as well as for clients in the communication and marketing sector, and also for the public sector, energy, and telecommunications.
+
+My main mission is to create functional, attractive, and fully responsive web pages and applications, always following the best practices and standards of the industry.
+
+I love design, creativity, and challenges, and I'm always willing to learn new things and improve my skills. I consider myself passionate about technology and web development with a great capacity for communication and continuous learning. My goal is to continue growing and advancing professionally within the sector, contributing value to the projects I undertake and to the teams I collaborate with
+
+- 👩‍💻 I'm currently working as Angular Web Developer
 - ☕ Expert coffee lover
 - 🌱 I’m currently learning programming and web development
 - 💬 Ask me about whatever you think may help you
